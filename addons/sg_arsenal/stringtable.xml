@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project name="Arma3">
+	<Package name="sg_arsenal">
+		<Container name="STR_SG_ARSENAL">
+			<Key ID="STR_SG_EXPORT_EQUIP">
+				<English>Export equipment</English>
+				<Russian>Скопировать снаряжение</Russian>
+			</Key>
+			<Key ID="STR_SG_CLEAR_EQUIP">
+				<English>Clear equipment</English>
+				<Russian>Очистить снаряжение</Russian>
+			</Key>
+		</Container>
+	</Package>
+</Project>
